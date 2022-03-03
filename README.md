@@ -1,2 +1,2 @@
 #!/bin/bash
-readme
+Some more shell works! 
